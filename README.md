@@ -1,8 +1,6 @@
 ### Hi there..
-<h1 align="center"> I'm Harikumar</h1>
-<h3 align="center">An engineering student</h3>
-
-- 🔭 I’m currently working on [html and javascript](https://www.w3schools.com/)
+<h1 align="center">Hi 👋, I'm Harikumar</h1>
+- 🌱 I’m currently learning on [html and javascript](https://www.w3schools.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
